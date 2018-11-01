@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appType": "clockface",
+    "appDisplayName": "Klockface Moment",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Klockface Moment"
+      }
+    },
+    "appUUID": "7785876c-0ca7-40cf-9854-897332c433c8"
+  },
+  "dependencies": {
+    "@fitbit/sdk": "^2.0.2",
+    "@fitbit/sdk-cli": "^1.0.2"
+  }
+}
