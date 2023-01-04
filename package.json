@@ -19,7 +19,7 @@
     "appUUID": "7785876c-0ca7-40cf-9854-897332c433c8"
   },
   "dependencies": {
-    "@fitbit/sdk": "^2.0.2",
+    "@fitbit/sdk": "^2.0.4",
     "@fitbit/sdk-cli": "^1.0.2"
   }
 }
